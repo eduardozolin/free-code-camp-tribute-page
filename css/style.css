@@ -1,0 +1,36 @@
+body {
+    background-color:#eee;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    margin: 20px 50px 20px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    background-color:#ffffff;
+    border-radius: 20px;
+    box-shadow: -5px -10px 30px #fff, 6px 9px 15px #fff;
+}
+
+figcaption {
+    font-style: italic;
+    margin: 30px 50px 30px;
+}
+
+ul {
+    max-width: 600px;
+    text-align: justify;
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+}
+
+li {
+    margin: 16px 0;
+}
